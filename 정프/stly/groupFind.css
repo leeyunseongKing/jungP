@@ -1,0 +1,8 @@
+*{margin: 0; padding: 0;}
+body{box-sizing: border-box;background-color: #323438;}
+    .Find{width: 500px; height: 500px;position: absolute;top: 50%;left: 50%; transform: translate(-50%,-50%);}
+        .Find img{background-size:cover;height: 150px;width: 500px;}
+        .Find .Find_btn{border-radius: 0 0 10px 10px;background-color: #413e3e;height: 300px; width: 500px;}
+        .Find_btn div{width: 400px; height: 200px; position:absolute; top: 90%; left: 58%; transform: translate(-50%, -50%);}
+            .Find_btn div button{background: inherit ; border:none; box-shadow:none; border-radius:0; padding:0; overflow:visible;}
+            .Find_btn div button img{width: 150px; height: 40px;border-radius: 20px; font-size: 1.2em; font-weight: bold; color: aliceblue;}
